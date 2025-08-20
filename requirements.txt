@@ -1,0 +1,22 @@
+pandas
+python-dotenv
+pathlib2
+
+# LangChain ecosystem for RAG and knowledge graphs
+langchain
+langchain-community
+langchain-openai
+
+# Neo4j database integration
+neo4j
+
+# OpenAI API client
+openai
+
+# Text processing and splitting
+tiktoken
+
+numpy
+jupyter
+ipykernel
+
